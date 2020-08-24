@@ -1,4 +1,4 @@
 endereco:
   request:
-    #path: "http://alb-poc-microservico-1092628982.us-east-1.elb.amazonaws.com/requisitado"
-    path: "http://localhost:8080/requisitado"
+    path: "http://alb-poc-microservico-1092628982.us-east-1.elb.amazonaws.com/requisitado"
+    #path: "http://localhost:8080/requisitado"
